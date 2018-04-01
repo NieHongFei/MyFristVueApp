@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "mock": "json-server data.json -p 3004"
+  },
+  "dependencies": {
+    "mockjs": "^1.0.1-beta3"
+  }
+}
